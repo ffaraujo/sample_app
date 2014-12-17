@@ -1,3 +1,8 @@
+# Ruby on Rails Tutorial: Aplicacao de Exemplo
+
+Esta e uma aplicacao de exemplo para o curso de ruby on rails
+by Daniel Cardoso, com referencias do railstutorial.com.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
